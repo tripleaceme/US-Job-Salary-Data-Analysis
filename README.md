@@ -13,7 +13,7 @@ of salaries you might encounter for different data–related jobs in the US.
 Below is a link to the questions and the data source.
 
 The original data was compiled by the US Department of Labor’s Office of Foreign Labor
-Certification [Here] (http://www.foreignlaborcert.doleta.gov/performancedata.cfm)
+Certification [Here](http://www.foreignlaborcert.doleta.gov/performancedata.cfm)
 
 ## Other reported uses of the data:
 
@@ -27,13 +27,16 @@ other specialty visas) and the permanent resident applications from 2008 to 2015
 H1B and permanent visa applications considered in the dataset can be seen in the table below.
 
 # Data Summary
-<p> <a href="#" target="blank"><img src="" alt="Data Summary" /></a> </p>
+<p> <a href="#" target="blank"><img src="https://github.com/tripleaceme/US-Job-Salary-Data-Analysis/blob/main/data%20summary.PNG" alt="Data Summary" /></a> </p>
 
 # Data Dictionary
-Read here [Data Dictionary]()
+Read here [Data Dictionary](https://github.com/tripleaceme/US-Job-Salary-Data-Analysis/blob/main/Salary-Data-Set-Description.pdf)
+
+# Data Analysis Plan
+Read here [Data Dictionary](https://github.com/tripleaceme/US-Job-Salary-Data-Analysis/blob/main/Salary-Data-Set-Analysis-Plan.pdf)
 
 
-You can read more about it [Here](https://www.linkedin.com/posts/tripleaceme_business-dataanalytics-breakintotech-activity-6950583585254846464-oxNH?utm_source=linkedin_share&utm_medium=member_desktop_web)
+You can read more about it [Here]()
 
 
 You can access the dashboard [Here](#)
